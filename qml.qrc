@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/Assets/back_arrow.png</file>
+        <file>UI/Assets/gps_fixed.png</file>
+        <file>UI/Assets/gps_not_fixed.png</file>
+        <file>UI/Assets/Home.png</file>
+        <file>UI/Assets/stop-sign.png</file>
+        <file>UI/Assets/Track.png</file>
+        <file>UI/Assets/VideoButton.png</file>
+        <file>UI/HomeScreen/HomeScreen.png</file>
+        <file>UI/HomeScreen/HomeScreen.qml</file>
+        <file>UI/HomeScreen/TrackSelectDialog.qml</file>
+        <file>UI/LapsScreen/LapsScreen.png</file>
+        <file>UI/LapsScreen/LapsScreen.qml</file>
+        <file>UI/ReviewScreen/ReviewScreen.png</file>
+        <file>UI/ReviewScreen/ReviewScreen.qml</file>
+        <file>UI/TimingScreen/TimingScreen.png</file>
+        <file>UI/TimingScreen/TimingScreen.qml</file>
+        <file>UI/VideoScreen/VideoScreen.png</file>
+        <file>UI/VideoScreen/VideoScreen.qml</file>
+        <file>main.qml</file>
+        <file>UI/Assets/toggle-off.png</file>
+        <file>UI/Assets/toggle-on.png</file>
+    </qresource>
+</RCC>
